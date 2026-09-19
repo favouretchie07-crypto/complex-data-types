@@ -10,7 +10,9 @@
 #
 ###################### YOUR CODE BELOW THIS LINE #######################
 
-newDict = None
+newDict = {
+	"key" : "value"
+}
 
 ########################################################################
 
@@ -44,7 +46,7 @@ import datetime
 
 ageInDays = None
 ageInMonths = None
-ageInYears = None
+ageInYears = 
 
 ########################################################################
 
